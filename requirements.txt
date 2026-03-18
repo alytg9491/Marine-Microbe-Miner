@@ -1,2 +1,2 @@
-biophyton
+biopython
 streamlit
