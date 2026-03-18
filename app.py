@@ -57,4 +57,4 @@ if st.button("Search & Fetch DNA"):
 
 # Footer for your resume
 st.divider()
-st.caption("Developed for UC San Diego (Scripps Institution of Oceanograph
+st.caption("Developed for UC San Diego (Scripps Institution of Oceanograph) Undergraduate Admissions Portfolio.")
